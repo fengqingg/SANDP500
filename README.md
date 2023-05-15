@@ -51,8 +51,8 @@ However, in the given dataset, LSTM outperformed ARIMA, indicating that the data
 
 |      | ARIMA |  LSTM |
 |:----:|:-----:|:-----:|
-| RMSE | 6.234 | 82.7% |
-|  MAE | 5.343 | 80.4% |
+| RMSE | 6.234 | 3.441 |
+|  MAE | 5.343 | 2.748 |
 
 It is worth noting that there are other models to explore, such as the Prophet model, which may also be suitable for this dataset. Thus, it is important to consider the characteristics of the dataset and the goals of the analysis when selecting the appropriate time series model.
 
